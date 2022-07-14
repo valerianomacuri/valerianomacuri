@@ -9,6 +9,8 @@ Gran comprensión de los principios de diseño, UI/UX, CSS avanzado (__CSS Modul
 Buen manejo del control de versiones __Git y Github__. Con experiencia en tecnologías backend de __Node y Express__.<br>
 <!-- Actitud positiva, fuerte ética de trabajo, un impulso por los resultados mientras se enfoca en la alta calidad del código y el rendimiento. -->
 
+<br>
+
 __SOPORTE TÉCNICO__ N & M TECH SUPPORT | Lima, Perú | 2020 - 2021
 
 Mantenimiento e instalación de sistemas electronicos (Camaras de seguridad, impresoras, PCs, etc.) y software (Office, Windows, Antivirus, etc.).
