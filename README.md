@@ -33,6 +33,7 @@ Asesoría en el desarrollo del sitio web oficial de Feeding Minds. (HTML5, CSS3,
 
 Diplomatura en Programación y Desarrollo de software | Platzi | Online | 2020 - Presente.<br>
 Autodidacta con decenas certificados de finalización | Platzi y Otras Plataformas | Online | 2020 - Presente.<br>
+Bachillerato en Sociología | UNMSM | Lima, Perú | 2018 - 2020 | No Concluido.<br>
 Diplomatura en Hardware de Computadoras y Redes - Ensamblaje | Instituto SISE | Lima, Perú | 2016.<br>
 
 <hr>
