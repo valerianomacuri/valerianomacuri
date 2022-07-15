@@ -16,20 +16,20 @@ Mantenimiento e instalación de sistemas electronicos (Camaras de seguridad, imp
 
 __DESARROLLADOR FRONTEND__  Plick | Mexico | 2021 - 2021
 
-Plick es una Web App dedicada a agilizar el tiempo de atencion por whatsapp, implementación de nuevas características. (ES6+, HTML5, CSS3, React)
+Plick es una Web App dedicada a agilizar el tiempo de atencion por whatsapp, implementación de nuevas características. (ES6+, HTML5, CSS3, React).
 
 __DESARROLLADOR FRONTEND__  Valtec Consultores | Lima, Perú | 2021 - 2022
 
 Desarrollo de aplicaciones web empresariales para varios clientes como (S&R Servicios Generales y AGP Perú). (Typescript, HTML5, CSS3, React, Ant Design, Next.JS, Sass, Azure DevOps).
 Desarrollo del sitio web oficial de Valtec Consultores (HTML5, CSS3, BEM, ES6+, Sass, Parcel, JAMStack, Contentful).
 
-__DESARROLLADOR FRONTEND__  Feeding Minds | Lima, Perú | 2022 - Presente
+__DESARROLLADOR FRONTEND__  Feeding Minds | Voluntario | Lima, Perú | 2022 - Presente
 
 Asesoría en el desarrollo del sitio web oficial de Feeding Minds. (HTML5, CSS3, ES6+, SEO, JAMStack).
 
 <hr>
 
-## Educación
+### Educación
 
 Diplomatura en Programación y Desarrollo de software | Platzi | Online | 2020 - Presente.<br>
 Autodidacta con decenas certificados de finalización | Platzi y Otras Plataformas | Online | 2020 - Presente.<br>
@@ -37,7 +37,7 @@ Diplomatura en Hardware de Computadoras y Redes - Ensamblaje | Instituto SISE | 
 
 <hr>
 
-## Otros Proyectos
+### Otros Proyectos
 
 Movie Listing. Web app para buscar y ver peliculas y series. (Typescript, React,React Query).
 
