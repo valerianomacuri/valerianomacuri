@@ -23,9 +23,11 @@ __DESARROLLADOR FRONTEND__  Valtec Consultores | Lima, Perú | 2021 - 2022
 Desarrollo de aplicaciones web empresariales para varios clientes como (S&R Servicios Generales y AGP Perú). (Typescript, HTML5, CSS3, React, Ant Design, Next.JS, Sass, Azure DevOps).
 Desarrollo del sitio web oficial de Valtec Consultores (HTML5, CSS3, BEM, ES6+, Sass, Parcel, JAMStack, Contentful).
 
-__DESARROLLADOR FRONTEND__  Feeding Minds | Voluntario | Lima, Perú | 2022 - Presente
+__DESARROLLADOR FRONTEND__  Feeding Minds | Lima, Perú | 2022 - Presente
 
 Asesoría en el desarrollo del sitio web oficial de Feeding Minds. (HTML5, CSS3, ES6+, SEO, JAMStack).
+
+__DESARROLLADOR FRONTEND__  TREM GROUP | Lima, Perú | 2022 - Presente
 
 <hr>
 
