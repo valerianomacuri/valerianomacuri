@@ -29,6 +29,8 @@ Asesoría en el desarrollo del sitio web oficial de Feeding Minds. (HTML5, CSS3,
 
 __DESARROLLADOR FRONTEND__  TREM GROUP | Lima, Perú | 2022 - Presente
 
+Desarrollo y mantenimiento de IDXBoost (Real Estate Website Builder). (Typescript, HTML5, CSS3, React, Ant Design).
+
 <hr>
 
 ### Educación
