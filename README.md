@@ -28,7 +28,7 @@ Desarrollo del sitio web oficial de Valtec Consultores (HTML5, CSS3, BEM, ES6+, 
 
 Desarrollo de la aplicación web de Feeding Minds. (HTML5, CSS3, ES6+, React, Node, Express, MongoDB).
 
-**DESARROLLADOR FRONTEND** TREM GROUP | Miami, USA | 2022 - Presente
+**DESARROLLADOR FRONTEND** TREM GROUP | Miami, USA | 2022 - 2024
 
 Desarrollo y mantenimiento de IDXBoost (Real Estate Website Builder). (Typescript, HTML5, CSS3, React).
 
