@@ -7,7 +7,7 @@ Lima, Perú | leonardo.valeriano.public@gmail.com | Portafolio https://leovaleri
 Sólidos conocimientos front-end de **React, Vue, ES6+, HTML5, CSS3+, Web API's, Redux, Typescript, Next.JS, Vite, Jest** y **React Testing Libary**. Experiencia en el consumo de APIs (**fetch API, axios, React Query**).<br>
 Experiencia en front-end móvil en **React Native** y **PWA**.<br>
 Gran comprensión de los principios de diseño, UI/UX, CSS avanzado (**CSS Modules, Sass, Styled Components**) y responsive design.<br>
-Buen manejo del control de versiones **Git y Github**. Con experiencia en tecnologías backend de **Node y Express**.<br>
+Buen manejo del control de versiones **Git y Github**. Con experiencia en tecnologías backend de **Node, Express y MongoDB**.<br>
 
 <hr>
 
@@ -15,22 +15,17 @@ Buen manejo del control de versiones **Git y Github**. Con experiencia en tecnol
 
 Mantenimiento e instalación de sistemas electronicos (Camaras de seguridad, impresoras, PCs, etc.) y software (Office, Windows, Antivirus, etc.).
 
-**DESARROLLADOR FULLSTACK** Plick | Mexico | 2021 - 2021
-
-Plick es una Web App dedicada a agilizar el tiempo de atencion por whatsapp, implementación de nuevas características. (ES6+, HTML5, CSS3, React, Node, Express, MongoDB).
-
 **DESARROLLADOR FRONTEND** Valtec Consultores | Lima, Perú | 2021 - 2022
 
-Desarrollo de aplicaciones web empresariales para varios clientes como (S&R Servicios Generales y AGP Perú). (Typescript, HTML5, CSS3, React, Ant Design, Next.JS, Sass, Azure DevOps).
-Desarrollo del sitio web oficial de Valtec Consultores (HTML5, CSS3, BEM, ES6+, Sass).
+Desarrolle aplicaciones web para varios clientes como (S&R Servicios Generales y AGP Perú), una aplicación para gestionar incidentes laborales en el sector minero. Una aplicación para hacer seguimiento a los proyectos de una empresa del sector automotriz (HTML, CSS, React, Javascript, Azure DevOps, UI Libraries). Desarrolle de su sitio web oficial (Javascript, JQuery, HTML, CSS, Bootstrap).
 
-**CTO & FULLSTACK LEAD** Feeding Minds | Lima, Perú | 2022 - Presente
+**CTO & DESARROLLADOR FULLSTACK ** Feeding Minds | Lima, Perú | 2022 - Presente
 
-Desarrollo de la aplicación web de Feeding Minds. (HTML5, CSS3, ES6+, React, Node, Express, MongoDB).
+Desarrollé la aplicación Feeding Minds, un sitio web que conecta psicólogos con estudiantes y agenda reuniones a través de Google Meet y Google Calendar (HTML, CSS, React, Javascript, Node, Express, MongoDB, API de Google Calendar). También creé su landing page, priorizando el SEO y el posicionamiento, y logré posicionar la marca en buscadores (HTML, CSS, React, Javascript, Next.js).
 
 **DESARROLLADOR FRONTEND** TREM GROUP | Miami, USA | 2022 - 2024
 
-Desarrollo y mantenimiento de IDXBoost (Real Estate Website Builder). (Typescript, HTML5, CSS3, React).
+Desarrolle aplicaciones desde cero, un buscador de propiedades (casas, departamentos, etc.) integrado con Google Maps (HTML, CSS, React, Typescript, Google Maps API), realicé mantenimiento a la aplicación Leads de la empresa (React Native, Javascript), asi como las aplicaciones internas de la empresa (Backoffice, CMS), desarrollé un chatbot, para que los usuarios de la empresa puedan tener una mejor experiencia de usuario (HTML, CSS, React, Typescript, WebSocket).
 
 <hr>
 
