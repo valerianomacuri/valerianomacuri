@@ -4,7 +4,7 @@ Lima, Perú | +51 934643232 | leonardo.valeriano.2000@gmail.com | Portafolio htt
 
 ---
 
-Sólidos conocimientos front-end de **React, ES6+, HTML5, CSS3+, Web API's, Redux Toolkit, Typescript, Next.JS, Vite, Jest** y **React Testing Libary**. Experiencia en el consumo de APIs (**fetch API, axios, React Query**). Experiencia en front-end móvil en **React Native** y **PWA**. Gran comprensión de los principios de diseño, UI/UX, CSS avanzado (**CSS Modules, Sass, Styled Components**) y responsive design. Buen manejo del control de versiones **Git y Github**. Con experiencia en tecnologías backend de **Node, Express y MongoDB**.<br>
+Sólidos conocimientos front-end de **React, ES6+, HTML5, CSS3+, Web API's, Redux Toolkit, Typescript, Next.JS, Vite, Jest** y **React Testing Libary**. Experiencia en el consumo de APIs (**fetch API, axios, React Query**). Experiencia en front-end móvil en **React Native** y **PWA**. Gran comprensión de los principios de diseño, UI/UX, CSS avanzado (**CSS Modules, Sass, Styled Components**) y responsive design. Buen manejo del control de versiones **Git y Github**. Con experiencia en tecnologías backend de **Node, Express y MongoDB**.
 
 ---
 
@@ -28,14 +28,14 @@ Mantenimiento e instalación de sistemas electronicos (Camaras de seguridad, imp
 
 ### Educación
 
-Diplomatura en Programación y Desarrollo de software | Platzi | Online | 2020 - 2022.<br>
-Bachillerato en Ciencias Sociales | UNMSM | Lima, Perú | 2018 - 2020.<br>
-Diplomatura en Hardware de Computadoras y Redes - Ensamblaje | Instituto SISE | Lima, Perú | 2016.<br>
+Diplomatura en Programación y Desarrollo de software | Platzi | Online | 2020 - 2022.
+Bachillerato en Ciencias Sociales | UNMSM | Lima, Perú | 2018 - 2020.
+Diplomatura en Hardware de Computadoras y Redes - Ensamblaje | Instituto SISE | Lima, Perú | 2016.
 
 ### Otros Proyectos
 
-Movie Listing. Web app para buscar y ver trailers e información sobre peliculas y series. (Typescript, React, React Query).<br>
-Pokedex. App móvil para buscar pokémons y ver sus características. (React Native, Typescript, JSS).<br>
-Netflix Mobile. App móvil para buscar las películas, conocer su sinopsis, y el elenco. (React Native, Typescript, JSS).<br>
-Lectuapi. API Restful de libros. (Go, MongoDB).<br>
+Movie Listing. Web app para buscar y ver trailers e información sobre peliculas y series. (Typescript, React, React Query).
+Pokedex. App móvil para buscar pokémons y ver sus características. (React Native, Typescript, JSS).
+Netflix Mobile. App móvil para buscar las películas, conocer su sinopsis, y el elenco. (React Native, Typescript, JSS).
+Lectuapi. API Restful de libros. (Go, MongoDB).
 LowDB. Bases de datos JSON. (Go).
