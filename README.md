@@ -1,6 +1,6 @@
 # LEONARDO VALERIANO MACURI
 
-Lima, Perú | +51 934643232 | leonardo.valeriano.public@gmail.com | Portafolio https://leovaleriano.vercel.app
+Lima, Perú | +51 934643232 | leonardo.valeriano.2000@gmail.com | Portafolio https://leovaleriano.vercel.app
 
 ---
 
