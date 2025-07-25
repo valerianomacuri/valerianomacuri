@@ -1,56 +1,41 @@
 # LEONARDO VALERIANO MACURI
 
-Lima, Perú | leonardo.valeriano.public@gmail.com | Portafolio https://leovaleriano.vercel.app
+Lima, Perú | +51 934643232 | leonardo.valeriano.public@gmail.com | Portafolio https://leovaleriano.vercel.app
 
-<hr>
+---
 
-Sólidos conocimientos front-end de **React, Vue, ES6+, HTML5, CSS3+, Web API's, Redux, Typescript, Next.JS, Vite, Jest** y **React Testing Libary**. Experiencia en el consumo de APIs (**fetch API, axios, React Query**).<br>
-Experiencia en front-end móvil en **React Native** y **PWA**.<br>
-Gran comprensión de los principios de diseño, UI/UX, CSS avanzado (**CSS Modules, Sass, Styled Components**) y responsive design.<br>
-Buen manejo del control de versiones **Git y Github**. Con experiencia en tecnologías backend de **Node, Express y MongoDB**.<br>
+Sólidos conocimientos front-end de **React, ES6+, HTML5, CSS3+, Web API's, Redux Toolkit, Typescript, Next.JS, Vite, Jest** y **React Testing Libary**. Experiencia en el consumo de APIs (**fetch API, axios, React Query**). Experiencia en front-end móvil en **React Native** y **PWA**. Gran comprensión de los principios de diseño, UI/UX, CSS avanzado (**CSS Modules, Sass, Styled Components**) y responsive design. Buen manejo del control de versiones **Git y Github**. Con experiencia en tecnologías backend de **Node, Express y MongoDB**.<br>
 
-<hr>
+---
 
-**SOPORTE TÉCNICO** N & M TECH SUPPORT | Lima, Perú | 2020 - 2021
+### **DESARROLLADOR FRONTEND** TREM Group | Miami, USA | MAY 2022 - Presente
+
+Diseñé e implementé un sistema de búsqueda de propiedades (casas, departamentos, edificios, etc.) con integración avanzada de Google Maps (HTML5, CSS3, React, Typescript y Google Maps API). Di mantenimiento y realicé mejoras a una aplicación móvil para el seguimiento de leads (potenciales clientes interesados en comprar, vender o alquilar propiedades), asegurando su correcto funcionamiento, rendimiento y experiencia de usuario (React Native y Javascript). Además, mantuve y mejoré las aplicaciones internas de la empresa, responsables de la administración de clientes, gestión de usuarios y permisos, y generación de reportes internos (HTML5, CSS3, React y Typescript).
+
+### **CTO & DESARROLLADOR FULLSTACK** Feeding Minds | Lima, Perú | MAY 2022 - DEC 2023
+
+Desarrollé Feeding Minds, una plataforma web que conecta psicólogos con estudiantes y gestiona la programación de reuniones mediante integración con Google Meet y Google Calendar (HTML5, CSS3, React, Javascript, Node.js, Express, MongoDB y Google Calendar API). Implementé su landing page con Next.js, optimizada para SEO y rendimiento, logrando posicionar la marca de manera orgánica en los principales motores de búsqueda (HTML, CSS, React, Javascript, Next.js).
+
+### **DESARROLLADOR FRONTEND** Valtec Consultores | Lima, Perú | NOV 2021 - MAY 2022
+
+He desarrollado diversas aplicaciones web y sitios a medida para clientes como **S&R Servicios Generales, AGP Perú y Valtec Consultores**. Mis responsabilidades clave incluyeron la creación de un sistema de gestión de incidentes laborales para el sector minero y una aplicación de seguimiento de proyectos para la industria automotriz. Adicionalmente, estuve a cargo del desarrollo del sitio web oficial de Valtec Consultores (HTML, CSS, JavaScript, React, JQuery, Bootstrap, UI Libraries y Azure DevOps).
+
+### **SOPORTE TÉCNICO** N & M TECH SUPPORT | Lima, Perú | 2020 - 2021
 
 Mantenimiento e instalación de sistemas electronicos (Camaras de seguridad, impresoras, PCs, etc.) y software (Office, Windows, Antivirus, etc.).
 
-**DESARROLLADOR FRONTEND** Valtec Consultores | Lima, Perú | 2021 - 2022
-
-Desarrolle aplicaciones web para varios clientes como (S&R Servicios Generales y AGP Perú), una aplicación para gestionar incidentes laborales en el sector minero. Una aplicación para hacer seguimiento a los proyectos de una empresa del sector automotriz (HTML, CSS, React, Javascript, Azure DevOps, UI Libraries). Desarrolle de su sitio web oficial (Javascript, JQuery, HTML, CSS, Bootstrap).
-
-**CTO & DESARROLLADOR FULLSTACK ** Feeding Minds | Lima, Perú | 2022 - Presente
-
-Desarrollé la aplicación Feeding Minds, un sitio web que conecta psicólogos con estudiantes y agenda reuniones a través de Google Meet y Google Calendar (HTML, CSS, React, Javascript, Node, Express, MongoDB, API de Google Calendar). También creé su landing page, priorizando el SEO y el posicionamiento, y logré posicionar la marca en buscadores (HTML, CSS, React, Javascript, Next.js).
-
-**DESARROLLADOR FRONTEND** TREM GROUP | Miami, USA | 2022 - 2024
-
-Desarrolle aplicaciones desde cero, un buscador de propiedades (casas, departamentos, etc.) integrado con Google Maps (HTML, CSS, React, Typescript, Google Maps API), realicé mantenimiento a la aplicación Leads de la empresa (React Native, Javascript), asi como las aplicaciones internas de la empresa (Backoffice, CMS), desarrollé un chatbot, para que los usuarios de la empresa puedan tener una mejor experiencia de usuario (HTML, CSS, React, Typescript, WebSocket).
-
-<hr>
+---
 
 ### Educación
 
-Diplomatura en Programación y Desarrollo de software | Platzi | Online | 2020 - Presente.<br>
+Diplomatura en Programación y Desarrollo de software | Platzi | Online | 2020 - 2022.<br>
 Bachillerato en Ciencias Sociales | UNMSM | Lima, Perú | 2018 - 2020.<br>
 Diplomatura en Hardware de Computadoras y Redes - Ensamblaje | Instituto SISE | Lima, Perú | 2016.<br>
 
-<hr>
-
 ### Otros Proyectos
 
-Movie Listing. Web app para buscar y ver peliculas y series. (Typescript, React,React Query).
-
-Globin Store. E-commerce inspirado en los estilos de Nintendo NES. (Typescript, React, HTML5, CSS3).
-
-Pokedex. App móvil para buscar pokémons y ver sus características. (React Native, Typescript, JSS).
-
-Netflix Mobile. App móvil para buscar las películas, conocer su sinopsis, y el elenco. (React Native, Typescript, JSS).
-
-Netflix Clon. Clon de la Landing Page Netflix. (HTML5, CSS5, BEM).
-
-ToDo App. Web app similar a Microsfot ToDo. (HTML5, CSS3, ES6+, Web APIs).
-
-Lectuapi. API Restful de libros. (Go, MongoDB).
-
+Movie Listing. Web app para buscar y ver trailers e información sobre peliculas y series. (Typescript, React, React Query).<br>
+Pokedex. App móvil para buscar pokémons y ver sus características. (React Native, Typescript, JSS).<br>
+Netflix Mobile. App móvil para buscar las películas, conocer su sinopsis, y el elenco. (React Native, Typescript, JSS).<br>
+Lectuapi. API Restful de libros. (Go, MongoDB).<br>
 LowDB. Bases de datos JSON. (Go).
